@@ -1,0 +1,25 @@
+#input-btn {
+  background-color: rgb(25, 0, 255);
+}
+
+#clear-btn {
+  background-color: red;
+}
+
+#central {
+  display: flex;
+  background-color: #f4eae3;
+  align-items: center;
+  justify-content: center;
+}
+
+#title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+}
